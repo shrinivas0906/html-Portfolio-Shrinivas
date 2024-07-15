@@ -1,0 +1,42 @@
+*{
+    background-color:#EEF5FF;
+    color:#176B87;
+    font-family: 'Trebuchet MS',  Arial, sans-serif;
+}
+
+div {
+    border-width: 1px;
+    border-color: #EEF5FF;
+    border-style: solid;
+    padding: 17px;
+}
+
+.mybox {
+    border: solid;
+    border-width: 1px;
+    padding: 2.5% 7% 1% 83%; 
+    border-color: #EEF5FF;   
+}
+
+.name {
+text-align:left;
+font-size: 20px;
+}
+
+img {
+border: solid;
+border-width: 4px;
+margin: 3.5px 4.5px;
+padding: 3px;
+}
+
+table, th, td {
+
+table-layout:fixed;
+width: 100%;
+border: 2px solid;
+border-collapse: collapse;
+text-align: center;
+
+}
+
